@@ -1,0 +1,14 @@
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/bin/Debug/net8.0/ESGTestC#
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/bin/Debug/net8.0/ESGTestC#.deps.json
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/bin/Debug/net8.0/ESGTestC#.runtimeconfig.json
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/bin/Debug/net8.0/ESGTestC#.dll
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/bin/Debug/net8.0/ESGTestC#.pdb
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ESGTestC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ESGTestC#.AssemblyInfoInputs.cache
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ESGTestC#.AssemblyInfo.cs
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ESGTestC#.csproj.CoreCompileInputs.cache
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ESGTestC#.dll
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/refint/ESGTestC#.dll
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ESGTestC#.pdb
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ESGTestC#.genruntimeconfig.cache
+/Users/kya.edmeade@jagex.com/Documents/Projects/dot-Net-project/ESGTestC#/obj/Debug/net8.0/ref/ESGTestC#.dll
